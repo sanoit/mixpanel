@@ -1,0 +1,4 @@
+mixpanel
+========
+
+MixPanel Wordpress Plugin
